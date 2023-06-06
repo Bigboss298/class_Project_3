@@ -1,0 +1,17 @@
+C:\Users\Abdullah\Desktop\CLH\bin\Debug\net7.0\CLH.exe
+C:\Users\Abdullah\Desktop\CLH\bin\Debug\net7.0\CLH.deps.json
+C:\Users\Abdullah\Desktop\CLH\bin\Debug\net7.0\CLH.runtimeconfig.json
+C:\Users\Abdullah\Desktop\CLH\bin\Debug\net7.0\CLH.dll
+C:\Users\Abdullah\Desktop\CLH\bin\Debug\net7.0\CLH.pdb
+C:\Users\Abdullah\Desktop\CLH\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Abdullah\Desktop\CLH\obj\Debug\net7.0\CLH.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\CLH\obj\Debug\net7.0\CLH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\Desktop\CLH\obj\Debug\net7.0\CLH.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Desktop\CLH\obj\Debug\net7.0\CLH.AssemblyInfo.cs
+C:\Users\Abdullah\Desktop\CLH\obj\Debug\net7.0\CLH.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\CLH\obj\Debug\net7.0\CLH.csproj.CopyComplete
+C:\Users\Abdullah\Desktop\CLH\obj\Debug\net7.0\CLH.dll
+C:\Users\Abdullah\Desktop\CLH\obj\Debug\net7.0\refint\CLH.dll
+C:\Users\Abdullah\Desktop\CLH\obj\Debug\net7.0\CLH.pdb
+C:\Users\Abdullah\Desktop\CLH\obj\Debug\net7.0\CLH.genruntimeconfig.cache
+C:\Users\Abdullah\Desktop\CLH\obj\Debug\net7.0\ref\CLH.dll
